@@ -1,5 +1,5 @@
 change
 
 
-git add -A  -> -A => All files
+git add -A  -> -A => All files_---
 git add {File} -> Add {File}
